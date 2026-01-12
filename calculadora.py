@@ -3,7 +3,7 @@
 a = 0
 b = 2
 
-suma = a + b
+suma = b + a
 resta = a - b
 multi = a*b
 div = a/b
